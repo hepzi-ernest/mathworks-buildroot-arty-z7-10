@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python2
 import sys, os, shutil, glob, imp, argparse, datetime
 
 import parse_catalog

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python2
 # syntax <build_board.py> <output_dir> <platform> <board_name> [<image name>]
 # executed out of main buildroot source directory
 # available environment variables

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python2
 # available environment variables
 #    BR2_CONFIG: path to .config file
 #    HOST_DIR, STAGING_DIR, TARGET_DIR

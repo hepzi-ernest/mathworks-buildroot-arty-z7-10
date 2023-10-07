@@ -1,0 +1,13 @@
+diff -rup a/Source/cmServerProtocol.cxx b/Source/cmServerProtocol.cxx
+--- a/Source/cmServerProtocol.cxx	2016-07-07 15:47:27.000000000 +0100
++++ b/Source/cmServerProtocol.cxx	2016-07-14 10:14:59.914265515 +0100
+@@ -2,6 +2,9 @@
+    file Copyright.txt or https://cmake.org/licensing for details.  */
+ #include "cmServerProtocol.h"
+ 
++#include <stdexcept>
++#include <limits>
++
+ #include "cmCacheManager.h"
+ #include "cmExternalMakefileProjectGenerator.h"
+ #include "cmFileMonitor.h"

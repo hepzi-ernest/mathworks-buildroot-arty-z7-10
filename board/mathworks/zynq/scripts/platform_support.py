@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python2
 import sys, os, shutil, glob, imp, subprocess, time
 import helper_func
 from helper_func import *

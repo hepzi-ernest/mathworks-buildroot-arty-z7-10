@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python2
 # syntax: <gen_dtb.py> <platform> <board_name> image 
 import os, sys, imp
 import helper_func

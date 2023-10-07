@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python2
 # syntax <build_board.py> <output_dir> <platform> <board_name> [<group name>]
 import os,sys
 import sys
